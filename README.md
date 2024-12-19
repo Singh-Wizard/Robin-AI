@@ -1,6 +1,6 @@
 # Robin-AI: Conversational AI Assistant for PDFs and URLs
 
-**Robin-AI** is a smart conversational assistant designed to answer your queries based on the content of uploaded PDFs or provided URLs. Powered by OpenAI and LangChain, it delivers accurate, context-aware responses.
+**Robin-AI** is a smart conversational assistant designed to answer your queries based on the content of uploaded PDFs or provided URLs. Powered by GroqAI, HuggingFaceEmbedding Models and LangChain, it delivers accurate, context-aware responses.
 
 ![Robin AI](_storage/robin-ai.png)
 
