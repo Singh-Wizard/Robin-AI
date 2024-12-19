@@ -2,6 +2,8 @@
 
 **Robin-AI** is a smart conversational assistant designed to answer your queries based on the content of uploaded PDFs or provided URLs. Powered by OpenAI and LangChain, it delivers accurate, context-aware responses.
 
+![Robin AI](_storage/robin-ai.png)
+
 ---
 
 ## 🚀 Features
@@ -37,7 +39,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/robin-ai.git  
+   git clone https://github.com/Singh-Wizard/robin-ai.git  
    cd robin-ai  
    ```
 
